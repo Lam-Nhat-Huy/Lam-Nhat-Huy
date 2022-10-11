@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhật Huy</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">A web developer from Vietnam </h3>
 
 - ✍ I'm a student of: [FPT polytechnic Can Tho] (FPOLY).
 
