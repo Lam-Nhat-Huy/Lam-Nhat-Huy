@@ -29,7 +29,7 @@
 <p align="center">
   <!-- VS Code -->
 <!-- Laravel -->
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap; justity-content: center;">
   <!-- VS Code -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="48" height="48"/>
 
