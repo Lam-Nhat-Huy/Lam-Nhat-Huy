@@ -2,10 +2,11 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A web developer from Vietnam </h3>
 
-- ✍ I'm a student of: [FPT polytechnic Can Tho] (FPOLY).
+- ✍ I am currently studying at: [Can Tho University] (CTU).
+
+- 👨‍🎓 I studied at: [FPT polytechnic Can Tho] (FPOLY).
 
 - 🌱 I’m currently learning **Web developer**
-
 
 ## 📫 How to reach me:
 
@@ -24,8 +25,16 @@
 </p>
 
 ## Skills:
+
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <!-- VS Code -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <!-- PhpStorm -->
+  <img src="https://img.icons8.com/color/48/000000/phpstorm.png" alt="PhpStorm"/>
+  <!-- IntelliJ IDEA -->
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
+  <!-- PyCharm -->
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
 </p>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
@@ -59,4 +68,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 </div>
 
-<!--🦶FOOTER--> 
+<!--🦶FOOTER-->
