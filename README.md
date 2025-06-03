@@ -26,31 +26,43 @@
 
 ## Skills:
 
-<p align="center">
+<div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
   <!-- VS Code -->
-<!-- Laravel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="48" height="48"/>
 
-<!-- React -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="48" height="48"/>
+  <!-- PhpStorm -->
+  <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="PhpStorm" width="48" height="48" />
 
-<!-- PHP -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="48" height="48"/>
+  <!-- IntelliJ IDEA -->
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="48" height="48"/>
 
-<!-- JavaScript -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="48" height="48"/>
+  <!-- PyCharm -->
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="48" height="48"/>
 
-<!-- Docker -->
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="48" height="48"/>
+  <!-- Laravel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="48" height="48"/>
 
-<!-- WordPress -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="48" height="48"/>
+  <!-- React -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="48" height="48"/>
 
-</p>
-      <p align="center"> 
+  <!-- PHP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="48" height="48"/>
+
+  <!-- JavaScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="48" height="48"/>
+
+  <!-- Docker -->
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="48" height="48"/>
+
+  <!-- WordPress -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="48" height="48"/>
+</div>
+
+      <p align="center">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
+
   </tr>
 </table>
 <div align="center">
