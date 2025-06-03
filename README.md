@@ -26,6 +26,9 @@
 
 ## Skills:
 
+<p align="center">
+  <!-- VS Code -->
+<!-- Laravel -->
 <div style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
   <!-- VS Code -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="48" height="48"/>
@@ -58,11 +61,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="48" height="48"/>
 </div>
 
-      <p align="center">
+</p>
+      <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
-
   </tr>
 </table>
 <div align="center">
