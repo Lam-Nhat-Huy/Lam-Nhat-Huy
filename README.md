@@ -30,7 +30,7 @@
   <!-- VS Code -->
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <!-- PhpStorm -->
-  <img src="https://img.icons8.com/color/48/000000/phpstorm.png" alt="PhpStorm"/>
+  <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" alt="PhpStorm" width="48" height="48" />
   <!-- IntelliJ IDEA -->
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
   <!-- PyCharm -->
